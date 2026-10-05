@@ -1,0 +1,18 @@
+{
+  "store": "ByteMods Appstore",
+  "apps": [
+    {
+      "file": "TankStars_2.20.105_mod_bytemods.apk",
+      "name": "Tank Stars",
+      "version": "2.20.105",
+      "type": "mod",
+      "author": "ByteMods",
+      "description": "Modded Tank Stars with a built-in mod menu.",
+      "features": [
+        "Mod menu",
+        "Instant kill",
+        "Free purchases"
+      ]
+    }
+  ]
+}
